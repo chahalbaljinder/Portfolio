@@ -12,8 +12,10 @@ const About = () => {
               Hello, I'm Baljinder Singh
             </h1>
             <p className="text-xl text-gray-600 mb-8">
-              A passionate Data Scientist and AI/ML enthusiast based in Delhi, India. 
-              Currently working on advancing defense technologies through AI at DRDO.
+            An AI/ML enthusiast with 2+ years of experience in developing innovative solutions using artificial intelligence 
+            and machine learning. During my time at DRDO and BEL, I’ve built Generative AI solutions, predictive models with 
+            85%+ accuracy, and scalable data pipelines, significantly improving operational efficiency. Skilled in Python, 
+            machine learning, and cloud platforms, I’m passionate about leveraging AI to drive impactful results. Let’s connect!
             </p>
           </section>
         </ScrollAnimation>
@@ -28,26 +30,32 @@ const About = () => {
                 title="AI/ML Intern"
                 company="Defence Research and Development Organisation (DRDO)"
                 period="Jan, 2025 - Present"
-                description="Working on Generative AI applications for defense technologies and solutions."
+                description="Driving the practical application of Generative AI to revolutionize defense technologies and solutions by 
+                researching and implementing synthetic data generation, simulating complex defense scenarios, and enhancing secure communication 
+                through advanced natural language processing, while actively contributing to DRDO’s mission to tackle critical defense 
+                challenges and foster innovation."
               />
               <ExperienceCard
                 title="AI/ML Intern"
                 company="Bharat Electronics Limited (BEL)"
                 period="Sep, 2024 - Dec, 2024"
-                description="Developed predictive models with 85%+ accuracy for the SUPER SCADA system."
+                description="Analyzed massive datasets (20+ crore entries) within the SUPER SCADA system, ensuring exceptional data quality 
+                that enhanced model training accuracy and operational efficiency. Designed predictive models achieving over 85% accuracy 
+                and built a robust data pipeline for the system, attaining 81% forecasting precision with N-BEATS while optimizing real-time 
+                data flow to Grafana via RabbitMQ, driving smarter decision-making and monitoring. Partnered with cross-functional teams to 
+                boost model performance by 25%, refining epoch selection, scaling techniques, and cutting training time by 20%, accelerating 
+                deployment timelines. Processed and optimized over a decade of operational data, tackling class imbalances using SMOTE and 
+                cost-sensitive learning to improve rare event prediction, elevating equipment failure detection and service reliability."
               />
               <ExperienceCard
                 title="Data Scientist | Management"
                 company="Fleetrr Online Services"
                 period="Feb, 2023 - Aug, 2024"
-                description="● Engineered machine learning models that reduced inventory errors by 30% using regression, time-series forecasting, and
-                               anomaly detection.
-                             ● Conducted statistical analysis with Python (Pandas, NumPy, Matplotlib), uncovering actionable insights that improved
-                               decision-making by 25%.
-                             ● Automated 10+ KPIs using Python-based dashboards and data pipelines, enabling real-time monitoring and progress
-                               tracking across teams.
-                            ● Worked with cross-functional teams to streamline resource allocation, automate workflows, and boost operational
-                               efficiency"
+                description="Developed advanced machine learning models that optimized inventory management, reducing errors by 30%, 
+                performed in-depth statistical analysis using Python to extract actionable insights that elevated decision-making efficiency by 25%, 
+                automated over 10 critical KPIs through dynamic dashboards and seamless data pipelines for real-time monitoring, 
+                and spearheaded cross-functional collaborations to streamline resource allocation, automate workflows, 
+                and drive significant operational excellence."
               />
             </div>
           </section>
