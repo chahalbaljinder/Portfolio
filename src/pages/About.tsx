@@ -40,7 +40,14 @@ const About = () => {
                 title="Data Scientist | Management"
                 company="Fleetrr Online Services"
                 period="Feb, 2023 - Aug, 2024"
-                description="Reduced inventory errors by 30% using ML models and automated KPIs."
+                description="● Engineered machine learning models that reduced inventory errors by 30% using regression, time-series forecasting, and
+                               anomaly detection.
+                             ● Conducted statistical analysis with Python (Pandas, NumPy, Matplotlib), uncovering actionable insights that improved
+                               decision-making by 25%.
+                             ● Automated 10+ KPIs using Python-based dashboards and data pipelines, enabling real-time monitoring and progress
+                               tracking across teams.
+                            ● Worked with cross-functional teams to streamline resource allocation, automate workflows, and boost operational
+                               efficiency"
               />
             </div>
           </section>
@@ -67,11 +74,14 @@ const About = () => {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <AchievementCard
                 title="BEL Recognition"
-                description="Developed a high-performing ridership prediction model with 85%+ accuracy"
+                description="Developed a high-performing ridership prediction model with accuracy of 85%+ for the SUPER SCADA system at Bharat
+                             Electronics Limited (BEL), selected for deployment in the production environment by BEL."
               />
               <AchievementCard
                 title="Event Management"
-                description="Led a team of 10 to organize a farewell event for 500+ attendees"
+                description="Led a team of 10 to organize a memorable farewell event for 500+ attendees and played a key role as a core member of
+                             Techfest, showcasing strategic planning, effective issue resolution, and seamless resource coordination, all while
+                             managing a 100k budget."
               />
             </div>
           </section>
