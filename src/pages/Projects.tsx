@@ -22,10 +22,10 @@ const projects = [
   {
     title: "Road Ranger",
     description: "The RoadRanger AI Traffic Optimization System is a comprehensive solution to modern traffic challenges. It leverages cutting-edge AI models, real-time data ingestion, and cloud infrastructure to optimize traffic flow, predict congestion, and enhance route planning. The system integrates various modules, datasets, and cloud services to create a scalable and efficient traffic management framework.",
-    image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&q=80&w=800",
+    image: "https://www.google.com/imgres?q=https%3A%2F%2Fmulticorewareinc.com%2Fwp-content%2Fuploads%2F2024%2F10%2Fsurveillance-camera-overlooking-busy-urban-intersection-security-concept-traffic-monitoring-urban-safety-public-surveillance-modern-technology.jpg&imgurl=https%3A%2F%2Fmulticorewareinc.com%2Fwp-content%2Fuploads%2F2024%2F10%2Fsurveillance-camera-overlooking-busy-urban-intersection-security-concept-traffic-monitoring-urban-safety-public-surveillance-modern-technology.jpg&imgrefurl=https%3A%2F%2Fmulticorewareinc.com%2Fai-on-the-edge-the-future-of-real-time-decentralized-traffic-control%2F&docid=TKa_bfhks5O5PM&tbnid=Nq7R7hgyDdLzoM&vet=12ahUKEwjhgLyb74uLAxW6UfUHHZUyIY8QM3oECBEQAA..i&w=600&h=336&hcb=2&ved=2ahUKEwjhgLyb74uLAxW6UfUHHZUyIY8QM3oECBEQAA",
     link: "https://github.com/chahalbaljinder/RoadRanger-AI-Traffic-Optimization-System",
     github: "https://github.com/chahalbaljinder/RoadRanger-AI-Traffic-Optimization-System",
-    tech: ["Python", "Scikit-learn", "Pandas", "FastAPI"]
+    tech: ["Python", "Scikit-learn", "Pandas", "FastAPI", "AWS" , "IOT"]
   }
 ];
 
