@@ -8,9 +8,14 @@ const Resume = () => {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center mb-8">
           <h1 className="text-4xl font-bold text-white">Resume</h1>
-          <button className="flex items-center px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
-            <Download className="w-4 h-4 mr-2" />
-            Download PDF
+          <button
+           className="flex items-center px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
+           onClick={() => {
+            window.open('/resume.pdf', '_blank');
+          }}
+          >
+           <Download className="w-4 h-4 mr-2" />
+           Download PDF
           </button>
         </div>
 
