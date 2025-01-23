@@ -22,8 +22,8 @@ const Navbar = () => {
           </div>
 
           <div className="flex items-center space-x-4">
-            <SocialLink href="https://github.com/baljinder" icon={<Github />} />
-            <SocialLink href="https://linkedin.com/in/baljinder" icon={<Linkedin />} />
+            <SocialLink href="https://github.com/chahalbaljinder" icon={<Github />} />
+            <SocialLink href="https://www.linkedin.com/in/baljinder-singh-595818174/" icon={<Linkedin />} />
             <SocialLink href="mailto:balliji913@gmail.com" icon={<Mail />} />
             <ThemeSwitcher />
           </div>

@@ -7,24 +7,24 @@ const projects = [
     title: "IntelliDocs: AI-Powered Document Query System",
     description: "An AI-powered Document QA System using Google Gemini API and ChromaDB, achieving 95%+ query accuracy and efficient text retrieval for 50,000+ documents.",
     image: "https://images.unsplash.com/photo-1518976024611-28bf4b48222e?auto=format&fit=crop&q=80&w=800",
-    link: "https://github.com/baljinder/intellidocs",
-    github: "https://github.com/baljinder/intellidocs",
+    link: "https://github.com/chahalbaljinder/Intellidocs",
+    github: "https://github.com/chahalbaljinder/Intellidocs",
     tech: ["Python", "Gemini API", "ChromaDB", "Streamlit"]
   },
   {
     title: "ML-Powered SCADA System",
     description: "Developed predictive models for BEL's SUPER SCADA system, achieving 85%+ accuracy in equipment failure prediction and operational efficiency optimization.",
     image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800",
-    link: "https://github.com/baljinder/scada-ml",
-    github: "https://github.com/baljinder/scada-ml",
+    link: "https://github.com/chahalbaljinder/SUPER_SCADA",
+    github: "https://github.com/chahalbaljinder/SUPER_SCADA",
     tech: ["Python", "TensorFlow", "RabbitMQ", "Grafana"]
   },
   {
-    title: "Inventory Management AI",
-    description: "ML-powered inventory management system that reduced errors by 30% using advanced regression and anomaly detection techniques.",
+    title: "Road Ranger",
+    description: "The RoadRanger AI Traffic Optimization System is a comprehensive solution to modern traffic challenges. It leverages cutting-edge AI models, real-time data ingestion, and cloud infrastructure to optimize traffic flow, predict congestion, and enhance route planning. The system integrates various modules, datasets, and cloud services to create a scalable and efficient traffic management framework.",
     image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&q=80&w=800",
-    link: "https://github.com/baljinder/inventory-ai",
-    github: "https://github.com/baljinder/inventory-ai",
+    link: "https://github.com/chahalbaljinder/RoadRanger-AI-Traffic-Optimization-System",
+    github: "https://github.com/chahalbaljinder/RoadRanger-AI-Traffic-Optimization-System",
     tech: ["Python", "Scikit-learn", "Pandas", "FastAPI"]
   }
 ];
