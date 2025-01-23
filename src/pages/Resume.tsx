@@ -11,7 +11,7 @@ const Resume = () => {
           <button
            className="flex items-center px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
            onClick={() => {
-            window.open('/resume.pdf', '_blank');
+            window.open('https://drive.google.com/file/d/1l9yr1flh1P9zpius-hP34Q7TwR6Dqsuz/view?usp=sharing', '_blank');
           }}
           >
            <Download className="w-4 h-4 mr-2" />
